@@ -38,7 +38,7 @@ function Header() {
                     <div className={s.imgBox2} >
                         <img className={s.img} src={img1} alt="-=" />
                     </div>
-                    <Link to="/"><button className={s.btnw}>Գլխ․ էջ</button></Link>
+                    <Link to="/"><button className={s.btnw}>Գլխավոր էջ</button></Link>
                     <Link to="/xndir"><button className={s.btnw}>Ի՞նչն է խնդիրը</button></Link>
                     <Link to="/lucum"><button className={s.btnw}>Լուծման եղանակներ</button></Link>
                     <Link to="/audio"><button className={s.btnw}>Հարցազրույց</button></Link>
